@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+
+*.user
+*.suo
+*.log
+*.db
+
+# secrets (optional local override)
+appsettings.*.local.json

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EcommAPI/EcommAPI.csproj" />
+  <Project Path="EcommDTO/EcommDTO.csproj" />
+</Solution>
